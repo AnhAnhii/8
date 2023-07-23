@@ -1,0 +1,15 @@
+{
+    "contact": "papaplatte",
+    "templates": [
+      {
+        "name": "papaplatte",
+        "sources": [
+     "https://cdn.discordapp.com/attachments/836991860743340053/1132743158539763863/4456456456456.png"
+        ],
+       "x": 874,
+        "y": 443
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
